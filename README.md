@@ -1,0 +1,2 @@
+# SolarLabs-Assignment
+Django API
